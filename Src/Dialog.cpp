@@ -11,7 +11,7 @@
 #include "TextViewer.h"
 #include "Config.h"
 
-#include "DebugLog.h"
+#include "DebugLog.h" //comment
 
 
 extern CAllocator GlobalAllocator;

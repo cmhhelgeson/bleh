@@ -38,3 +38,6 @@ Release/
 *.sdf
 *.suo
 *.user
+
+*.VC.db
+*.opendb
